@@ -1,0 +1,33 @@
+.button {
+  background: rgb(36, 36, 154);
+  width: 7rem;
+  height: 3rem;
+  border: none;
+  border-radius: 20px;
+}
+
+.buttonShake {
+  background: rgb(36, 36, 154);
+  width: 7rem;
+  height: 3rem;
+  border: none;
+  border-radius: 20px;
+  animation: shake 0.5s;
+}
+
+.allBooks {
+  border-radius: 50%;
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-3px);
+  }
+  75% {
+    transform: translateX(3px);
+  }
+}

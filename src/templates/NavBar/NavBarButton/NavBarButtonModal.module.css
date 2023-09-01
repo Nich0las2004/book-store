@@ -1,0 +1,26 @@
+.orderBtn,
+.orderBtn:active,
+.orderBtn:focus,
+.orderBtn:hover {
+  color: white !important;
+  width: 6rem;
+}
+
+.orderBtn:hover{
+  background: rgb(249, 164, 6);
+}
+
+* {
+  font-family: sans-serif;
+}
+
+.buttons {
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  background: white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  border: black 3 px solid;
+}

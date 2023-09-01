@@ -1,0 +1,29 @@
+.cartButton:active{
+  background: #1e8449;
+}
+
+.cardTemplate {
+  width: 18rem;
+  height: 34rem;
+  margin: 1rem;
+  padding: 0;
+}
+
+.bookImage{
+  width:100%;
+  height:80%;
+}
+
+.buttons{
+  display:flex;
+  justify-content:space-between;
+}
+
+.cartButton{
+    background: #28a745 ;
+    border: grey;
+}
+
+.cartButton:hover{
+  background: #4caf50;
+}

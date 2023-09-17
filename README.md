@@ -4,7 +4,7 @@ A book store built with redux tk, router-dom, and various react hooks such as us
 
 # Live
 
-Check out the project here
+Check out the project here: https://nich0las2004.github.io/book-store/#/home
 
 ## About
 
